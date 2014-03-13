@@ -7,4 +7,6 @@ config/database.yaml
 config/environments/production.rb
 db/schema.sql
 *.[oa]
+*.xxx
+target
 EOF
