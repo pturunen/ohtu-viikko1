@@ -102,7 +102,7 @@ public class VarastoTest {
         assertEquals(8, varasto.getSaldo(), vertailuTarkkuus);
         
         // varastosta saadaan saldon määrä eli 8
-        assertEquals(10, varasto.otaVarastosta(10) , vertailuTarkkuus);
+        assertEquals(8, varasto.otaVarastosta(10) , vertailuTarkkuus);
     }
     
     @Test
