@@ -9,4 +9,5 @@ db/schema.sql
 *.[oa]
 *.xxx
 target
+OhtuVarasto/target
 EOF
